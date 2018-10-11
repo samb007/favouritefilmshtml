@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Asap', sans-serif;
+}
+
+.wrapper{
+    padding: 20px 40px;
+}
+
