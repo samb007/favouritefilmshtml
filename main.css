@@ -6,9 +6,24 @@
 
 body{
     font-family: 'Asap', sans-serif;
+    background-color: papayawhip;
 }
 
 .wrapper{
     padding: 20px 40px;
 }
 
+.background{
+    background-image: url("Lotr_banner.gif");
+    background-color: #cccccc
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+@media (min-width:921px){
+    .guilty>.guilty-col{
+        width: 33.3333%;
+        float: left;
+}
+}
